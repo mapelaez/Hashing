@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1572207060 source:c:\users\kztyllo\desktop\lineal\main.c
+	"cabecera.h"
+
+1572184067 c:\users\kztyllo\desktop\lineal\cabecera.h
+	"leerFichero.h"
+	"colores.h"
+	"hash.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1572204262 c:\users\kztyllo\desktop\lineal\leerfichero.h
+	"cabecera.h"
+
+1572184438 c:\users\kztyllo\desktop\lineal\colores.h
+
+1572204229 source:c:\users\kztyllo\desktop\lineal\leerfichero.c
+	"cabecera.h"
+
+1572204323 c:\users\kztyllo\desktop\lineal\hash.h
+	"cabecera.h"
+
+1572253286 source:c:\users\kztyllo\desktop\lineal\hash.c
+	"hash.h"
+
+1572461558 source:c:\users\kztyllo\desktop\redimension\leerfichero.c
+	"cabecera.h"
+
+1572348813 c:\users\kztyllo\desktop\redimension\cabecera.h
+	"leerFichero.h"
+	"colores.h"
+	"hash.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1572458921 c:\users\kztyllo\desktop\redimension\leerfichero.h
+	"cabecera.h"
+
+1572281323 c:\users\kztyllo\desktop\redimension\colores.h
+
+1572458877 c:\users\kztyllo\desktop\redimension\hash.h
+	"cabecera.h"
+
+1572463505 source:c:\users\kztyllo\desktop\redimension\main.c
+	"cabecera.h"
+
+1573131307 source:c:\users\kztyllo\desktop\redimension\hash.c
+	"hash.h"
+
+1572461558 source:c:\users\kztyllo\desktop\ucam\algoritmia\boletin 1\redimension\leerfichero.c
+	"cabecera.h"
+
+1572348813 c:\users\kztyllo\desktop\ucam\algoritmia\boletin 1\redimension\cabecera.h
+	"leerFichero.h"
+	"colores.h"
+	"hash.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1572458921 c:\users\kztyllo\desktop\ucam\algoritmia\boletin 1\redimension\leerfichero.h
+	"cabecera.h"
+
+1572281323 c:\users\kztyllo\desktop\ucam\algoritmia\boletin 1\redimension\colores.h
+
+1572458877 c:\users\kztyllo\desktop\ucam\algoritmia\boletin 1\redimension\hash.h
+	"cabecera.h"
+
+1572463505 source:c:\users\kztyllo\desktop\ucam\algoritmia\boletin 1\redimension\main.c
+	"cabecera.h"
+
+1573164057 source:c:\users\kztyllo\desktop\ucam\algoritmia\boletin 1\redimension\hash.c
+	"hash.h"
+

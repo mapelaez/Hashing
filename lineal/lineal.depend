@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1572463852 source:c:\users\kztyllo\desktop\lineal\main.c
+	"cabecera.h"
+
+1572255562 c:\users\kztyllo\desktop\lineal\cabecera.h
+	"leerFichero.h"
+	"colores.h"
+	"hash.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1572463221 c:\users\kztyllo\desktop\lineal\leerfichero.h
+	"cabecera.h"
+
+1572184438 c:\users\kztyllo\desktop\lineal\colores.h
+
+1572463180 source:c:\users\kztyllo\desktop\lineal\leerfichero.c
+	"cabecera.h"
+
+1572462925 c:\users\kztyllo\desktop\lineal\hash.h
+	"cabecera.h"
+
+1572463805 source:c:\users\kztyllo\desktop\lineal\hash.c
+	"hash.h"
+
+1572463805 source:c:\users\kztyllo\desktop\ucam\algoritmia\boletin 1\lineal\hash.c
+	"hash.h"
+
+1572462925 c:\users\kztyllo\desktop\ucam\algoritmia\boletin 1\lineal\hash.h
+	"cabecera.h"
+
+1572255562 c:\users\kztyllo\desktop\ucam\algoritmia\boletin 1\lineal\cabecera.h
+	"leerFichero.h"
+	"colores.h"
+	"hash.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1572463221 c:\users\kztyllo\desktop\ucam\algoritmia\boletin 1\lineal\leerfichero.h
+	"cabecera.h"
+
+1572184438 c:\users\kztyllo\desktop\ucam\algoritmia\boletin 1\lineal\colores.h
+
+1572463180 source:c:\users\kztyllo\desktop\ucam\algoritmia\boletin 1\lineal\leerfichero.c
+	"cabecera.h"
+
+1572463852 source:c:\users\kztyllo\desktop\ucam\algoritmia\boletin 1\lineal\main.c
+	"cabecera.h"
+

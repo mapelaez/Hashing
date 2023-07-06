@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1573302929 source:c:\users\kztyllo\desktop\ucam\algoritmia\boletin 1\boletin 1\hashing.c
+	"leer.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1573300808 c:\users\kztyllo\desktop\ucam\algoritmia\boletin 1\boletin 1\leer.h
+
+1573300639 source:c:\users\kztyllo\desktop\ucam\algoritmia\boletin 1\boletin 1\leer.c
+	"leer.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+
+1573302865 source:c:\users\kztyllo\desktop\ucam\algoritmia\boletin 1\boletin 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"leer.h"
+
